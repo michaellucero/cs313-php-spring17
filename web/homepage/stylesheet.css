@@ -1,0 +1,94 @@
+.background {
+  background-image: url('background_hope.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: black;
+  clear: both;
+  overflow-x: auto;
+  height: 1300px;
+  background-attachment: scroll;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  border: 0px;
+  margin: 0;
+  overflow: hidden;
+  border-style: double;
+  text-align: center;
+  font-family: serif;
+  color: white;
+  background-color: rgba(31, 188, 209, 0.7);
+}
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border: 0px;
+  margin: 0;
+  overflow: hidden;
+  border-style: double;
+  text-align: center;
+  font-family: serif;
+  color: white;
+  background-color: rgba(31, 188, 209, 0.7);
+}
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: inherit;
+  overflow: auto;
+
+  width: 100%;
+}
+li, a {
+  display: inline-flex;
+  padding: 5px 15px;
+  border-radius: 15px;
+  background-color: black;
+
+
+}
+.linkfont {
+  font-family: Bookman, serif;
+
+  font-size: 125%;
+}
+.mypicture {
+  top: 200px;
+  left: 50px;
+  height: inherit;
+  color: white;
+  width: 110px;
+  height: 30px;
+  position: fixed;
+}
+.textright {
+  font-family: serif;
+  color: white;
+  font-size: 110%;
+  top: 500px;
+  right: 50px;
+  color: white;
+  width: 200px;
+  height: auto;
+  position:fixed;
+
+}
+.linkhover:hover {
+  background-color: white;
+  box-shadow: 3px;
+  border: black 3px;
+}
+.textleft {
+  font-family: serif;
+  color: white;
+  font-size: 110%;
+  width: 200px;
+  position: inherit;
+  clear: left;
+}

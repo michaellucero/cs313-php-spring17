@@ -11,10 +11,8 @@
       <h1>Welcome to my Home Page</h1>
       <span class="linkfont">
         <ul>
-          <li class="linkhover"><a href="#">Home</a></li>
-          <li class="linkhover"><a href="#">Assignments</a></li>
-          <li class="linkhover"><a href="#">Comming Soon</a></li>
-          <li class="linkhover"><a href="#">Comming Soon</a></li>
+          <li class="linkhover active"><a href="">Home</a></li>
+          <li class="linkhover"><a href="assignments.html">Assignments</a></li>
         </ul>
       </span>
     </div>

@@ -1,0 +1,54 @@
+{ "items" :
+  [
+    {
+      "itemID" : "0",
+      "item" : "Piano",
+      "price" : 349.00,
+      "count" : "each",
+      "qty" : "1",
+      "description" : "88 key fully weighted Keyboard with midi port connections to control your favorite DAW.",
+      "availability" : "Instock",
+      "picture" : "keyboard.png"
+    },
+    {
+      "itemID" : "1",
+      "item" : "Virtual Instrument Software",
+      "price" : 199.00,
+      "count" : "each",
+      "qty" : "1",
+      "description" : "Orchestra and strings complete set of 16 different VST Instruments.",
+      "availability" : "Instock",
+      "picture" : "virtual_instrument.png"
+    },
+    {
+      "itemID" : "2",
+      "item" : "Guitar Picks",
+      "price" : 1.49,
+      "count" : "pack of 4",
+      "qty" : "1",
+      "description" : "Think guitar picks 6 pack.",
+      "availability" : "Instock",
+      "picture" : "pick.png"
+    },
+    {
+      "itemID" : "3",
+      "item" : "Microphone",
+      "price" : 99.00,
+      "count" : "each",
+      "qty" : "1",
+      "description" : "Condensor mic for recording. Note: Requires phantom power.",
+      "availability" : "Instock",
+      "picture" : "mic.png"
+    },
+    {
+      "itemID" : "4",
+      "item" : "Digital Audio Workstation",
+      "price" : 599.00,
+      "count" : "each",
+      "qty" : "1",
+      "description" : "Professional level software with everything needed for your recording and music making needs.",
+      "availability" : "Instock",
+      "picture" : "daw.png"
+    }
+  ]
+}

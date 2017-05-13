@@ -1,0 +1,104 @@
+.itemTable {
+  top: 100px;
+  clear: both;
+  border: 2px solid;
+  border-color: black;
+  width: 100%
+
+}
+.container {
+  width: 80%;
+  border: 2px solid blue;
+}
+.imageFormat {
+
+  width: 150px;
+  height: 150px
+}
+
+td {
+  text-align: center;
+  padding: 4px;
+  margin: auto;
+}
+tr:nth-child(even) {
+  background-color: lightgray;
+
+}
+tr:nth-child(odd) {
+  background-color: rgb(183, 223, 242);
+
+}
+
+.header {
+  font-style: oblique;
+  font-size: 35px;
+  text-shadow: 10px;
+  padding: 25px;
+  top: 0;
+  left: 0;
+  right: 0;
+  border: 0px;
+  margin: 0;
+  overflow: hidden;
+  border-style: double;
+  text-align: center;
+  font-family: serif;
+  color: white;
+  background-color: rgb(31, 56, 185);
+}
+
+.button {
+  text-align: center;
+  font-size: 30px;
+  padding: 15px 32px;
+
+}
+
+.nextPageButton {
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: rgb(49, 199, 46);
+    font-size: 30px;
+    color: rgb(220, 250, 250);
+    border: none;
+    text-decoration: none;
+
+}
+
+.nextPageButton2:hover {
+  text-align: center;
+  margin: auto;
+  padding: 5px;
+  border-radius: 50%;
+  background-color: rgb(27, 170, 33);
+    font-size: 30px;
+    color: rgb(220, 250, 250);
+    border: none;
+    text-decoration: none;
+
+}
+
+.buttonFormat:hover {
+  box-shadow: 0 15px 15px 0 darkgray, 0 15px 20px 0 lightgray;
+
+}
+
+.totalFormat {
+  padding: 15px;
+  text-align: right;
+  margin: auto;
+  width: 25%;
+}
+
+.confirm {
+  text-align: center;
+  font-size: 25px;
+
+}
+
+.disable {
+  pointer-events: none;
+}
